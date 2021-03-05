@@ -1,0 +1,14 @@
+body {
+    background: #EDEDED;
+    
+  }
+  
+  .text-gray {
+    color: #aaa;
+  }
+  
+  .card-img-top {
+    width: 30%;
+    height: 13vw;
+    object-fit: cover;
+}  
